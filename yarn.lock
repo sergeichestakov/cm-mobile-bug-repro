@@ -100,6 +100,16 @@
     style-mod "^4.0.0"
     w3c-keyname "^2.2.4"
 
+"@codemirror/view@https://github.com/codemirror/view.git#7d88b9009598aab8bdcf2c135e77bea667040f85":
+  version "0.19.9"
+  resolved "https://github.com/codemirror/view.git#7d88b9009598aab8bdcf2c135e77bea667040f85"
+  dependencies:
+    "@codemirror/rangeset" "^0.19.0"
+    "@codemirror/state" "^0.19.2"
+    "@codemirror/text" "^0.19.0"
+    style-mod "^4.0.0"
+    w3c-keyname "^2.2.4"
+
 "@lezer/common@^0.15.0", "@lezer/common@^0.15.5":
   version "0.15.5"
   resolved "https://registry.yarnpkg.com/@lezer/common/-/common-0.15.5.tgz#29266bdd335b650e58efeb25c789b32e0dcdddfa"
