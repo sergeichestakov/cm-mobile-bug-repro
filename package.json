@@ -17,6 +17,6 @@
     "@codemirror/rangeset": "^0.19.0",
     "@codemirror/state": "^0.19.0",
     "@codemirror/tooltip": "0.19.0",
-    "@codemirror/view": "https://github.com/codemirror/view.git#4c42e5766bc7f51c86391789d485293b217d2902"
+    "@codemirror/view": "https://github.com/codemirror/view.git#63193de514049a6ca7dbd626830abc8437923398"
   }
 }
